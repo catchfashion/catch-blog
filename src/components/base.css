@@ -58,6 +58,19 @@ a {
   border-bottom: 1px solid #ddd;
 }
 
+.blog-post-body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.blog-post-body img {
+  max-width: 400px;
+  width: 100%;
+}
+
 /**
  *
  */
